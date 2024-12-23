@@ -1,8 +1,10 @@
 
-
 ![enter image description here](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80)
 
 # About 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=counter-strike.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 Experienced Front-End Developer proficient in all stages of web development. Skilled in creating responsive user interfaces, testing, and troubleshooting. Experienced in the design, development, and maintenance of modern web applications. Equipped with a strong and versatile skill set. Proficient in technologies such as Git, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React JS, React Native, Next.js, Node.js and GitHub. Capable of efficiently managing projects independently and successfully collaborating in team environments.
 
 
