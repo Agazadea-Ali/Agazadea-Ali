@@ -3,7 +3,7 @@
 ![enter image description here](https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80)
 
 # About 
-Experienced Front-End Developer proficient in all stages of web development. Skilled in creating responsive user interfaces, testing, and troubleshooting. Experienced in the design, development, and maintenance of modern web applications. Equipped with a strong and versatile skill set. Proficient in technologies such as Git, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React JS, React Native, Next.js, and GitHub. Capable of efficiently managing projects independently and successfully collaborating in team environments.
+Experienced Front-End Developer proficient in all stages of web development. Skilled in creating responsive user interfaces, testing, and troubleshooting. Experienced in the design, development, and maintenance of modern web applications. Equipped with a strong and versatile skill set. Proficient in technologies such as Git, HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React JS, React Native, Next.js, Node.js and GitHub. Capable of efficiently managing projects independently and successfully collaborating in team environments.
 
 
 
